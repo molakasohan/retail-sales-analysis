@@ -1,0 +1,9 @@
+Retail Sales Analysis Summary
+================================
+total_revenue: 2883632.52
+total_orders: 5000
+avg_order_value: 576.73
+total_units_sold: 15967
+top_category: Electronics
+top_region: South
+online_share_pct: 64.2
